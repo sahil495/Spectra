@@ -1,0 +1,100 @@
+Apple Green - #8DB600
+Asparagus - #87A96B
+Army Green - #4B5320
+Artichoke - #8F9779
+Avocado - #568203
+Bright Green - #66FF00
+British Racing Green - #004225
+Cadmium Green - #006B3C
+Cambridge Blue - #A3C1AD
+Celadon - #ACE1AF
+Chartreuse - #7FFF00
+Chinese Green - #D0F0C0
+Cinnamon Satin - #CD607E
+Citron - #9FA91F
+Cobalt Green - #3D9140
+Dark Green - #013220
+Dark Olive Green - #556B2F
+Dark Sea Green - #8FBC8F
+Dark Spring Green - #177245
+Deep Green - #056608
+Emerald - #50C878
+Forest Green - #228B22
+Fresh Green - #69D84F
+Green - #008000
+Green Blue - #1164B4
+Green Yellow - #ADFF2F
+Harlequin - #3FFF00
+Hunter Green - #355E3B
+Inchworm - #B2EC5D
+Islamic Green - #009000
+Jade - #00A86B
+Kelly Green - #4CBB17
+Laurel Green - #A9BA9D
+Lawn Green - #7CFC00
+Lime - #00FF00
+Lime Green - #32CD32
+Mantis - #74C365
+Mint - #3EB489
+Mint Cream - #F5FFFA
+Mint Green - #98FF98
+Moss Green - #8A9A5B
+Mountain Meadow - #30BA8F
+Myrtle Green - #317873
+Neon Green - #39FF14
+Olive - #808000
+Olive Drab - #6B8E23
+Olive Green - #B5B35C
+Opal - #A8C3BC
+Pakistan Green - #006600
+Parsley - #134F19
+Pine Green - #01796F
+Pistachio - #93C572
+Prussian Green - #177245
+Rifle Green - #444C38
+Sage - #BCB88A
+Screamin' Green - #76FF7A
+Sea Green - #2E8B57
+Shamrock Green - #009E60
+Spring Bud - #A7FC00
+Spring Green - #00FF7F
+Tea Green - #D0F0C0
+Tiffany Green - #0ABAB5
+Turquoise Green - #A0D6B4
+Up Forest Green - #014421
+Verdigris - #43B3AE
+Vibrant Green - #009900
+Viridian - #40826D
+Wasabi - #78866B
+Yellow Green - #9ACD32
+Zomp - #39A78E
+Amazon - #3B7A57
+Artichoke Green - #8F9779
+Bottle Green - #006A4E
+Bright Mint - #48BF91
+Celadon Green - #2F847C
+Christmas Green - #00844C
+Clover - #3EA055
+Dark Moss Green - #4A5D23
+Dark Spring Bud - #177245
+Duck Green - #49796B
+Fern Green - #4F7942
+French Green - #3C9D9B
+Granny Smith Apple - #A8E4A0
+Guacamole - #88B378
+Harlequin Green - #3FFF00
+Hooker's Green - #49796B
+Hunter's Green - #355E3B
+India Green - #138808
+Ivy Green - #1B4D3E
+Kelly - #4CBB17
+Laurel - #A9BA9D
+Lawn - #7CFC00
+Light Green - #90EE90
+Middle Green - #4D8C57
+Middle Green Yellow - #ACBF60
+Moss - #8A9A5B
+Neon Lime - #CCFF00
+Pine Tree - #2B5D34
+Sap Green - #507D2A
+Yellowish Green - #9ACD32

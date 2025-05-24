@@ -1,0 +1,100 @@
+Venetian Red - #C80815
+Red Devil - #860111
+Light Carmine Pink - #E66771
+Rose Vale - #AB4E52
+Dark Scarlet - #560319
+Medium Candy Apple Red - #E2062C
+Red Orange - #FF3F34
+Light Crimson - #F56991
+Cinnabar - #E44D2E
+Imperial Red - #ED2939
+Red - #FF0000
+Fire Engine Red - #CE2029
+Crimson - #DC143C
+Scarlet - #FF2400
+Brick Red - #CB4154
+Candy Apple Red - #FF0800
+Tomato Red - #FF6347
+Ruby Red - #9B111E
+Carmine - #960018
+Blood Red - #660000
+Burgundy - #800020
+Cherry Red - #DE3163
+Rust Red - #B7410E
+Vermilion - #E34234
+Coral Red - #FF4040
+Mahogany - #C04000
+Maroon - #800000
+Rose Red - #C21E56
+Wine Red - #722F37
+Persian Red - #CC3333
+Indian Red - #CD5C5C
+Electric Crimson - #FF003F
+Flame Red - #E25822
+Sangria - #92000A
+Firebrick - #B22222
+Red Salsa - #FD3A4A
+Sunset Orange - #FD5E53
+Brick Orange - #C14D36
+Scarlet Flame - #FF5349
+Indian Red Light - #CD5C5C
+Chestnut Red - #954535
+Dark Red - #8B0000
+Brilliant Red - #FF355E
+Cardinal Red - #C41E3A
+Salmon Red - #FF91A4
+Light Red - #FF6666
+Rusty Red - #DA2C43
+Tomato - #FF6347
+Vivid Red - #FF2400
+Candy Pink - #E4717A
+Poppy Red - #E62020
+Blood Orange - #FF4500
+Amaranth Red - #E52B50
+Alizarin Crimson - #E32636
+Carmine Pink - #EB4C42
+Spanish Red - #E60026
+Chinese Red - #AA381E
+Rose Madder - #E32636
+Congo Pink - #F88379
+Ferrari Red - #FF2800
+Burnt Sienna - #E97451
+Bright Maroon - #C32148
+Bittersweet - #FE6F5E
+Light Coral - #F08080
+Light Salmon - #FFA07A
+Salmon - #FA8072
+Dark Salmon - #E9967A
+Light Red Ochre - #E97451
+Chestnut - #954535
+Dark Chestnut - #986960
+Crimson Glory - #BE0032
+Medium Vermilion - #D9603B
+Mars Red - #B53B2C
+Dark Ruby - #841B2D
+Garnet Red - #733635
+Raspberry Red - #C72C48
+Berry Red - #A12B2B
+Medium Carmine - #AF4035
+Red Berry - #8D3F3F
+Rosewood - #65000B
+Old Brick Red - #8A3324
+Sunset Red - #FD5E53
+Candy Red - #FF0800
+Bright Red - #FF0000
+Cherry Blossom Red - #FFB7C5
+Carnation Pink - #FFA6C9
+Coral - #FF7F50
+Lipstick Red - #C71585
+Folly Red - #FF004F
+Flamingo Pink - #FC8EAC
+Ruddy Red - #FF0028
+Rust - #B7410E
+Torch Red - #FF2D00
+Vivid Crimson - #E40078
+Radical Red – #FF355E
+Cherry Pie – #D2042D
+Venus Red – #B22222
+Bittersweet Shimmer – #BF4F51
+Rosso Corsa – #D40000
+Sunburnt Cyclops – #FF404C

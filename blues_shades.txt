@@ -1,0 +1,100 @@
+Alice Blue - #F0F8FF
+Azure - #007FFF
+Baby Blue - #89CFF0
+Blue - #0000FF
+Cadet Blue - #5F9EA0
+Cobalt Blue - #0047AB
+Cornflower Blue - #6495ED
+Cyan / Aqua - #00FFFF
+Dark Blue - #00008B
+Deep Sky Blue - #00BFFF
+Denim - #1560BD
+Dodger Blue - #1E90FF
+Electric Blue - #7DF9FF
+Egyptian Blue - #1034A6
+Glaucous - #6082B6
+Indigo - #4B0082
+Iris - #5A4FCF
+Light Blue - #ADD8E6
+Light Sky Blue - #87CEFA
+Medium Blue - #0000CD
+Medium Slate Blue - #7B68EE
+Midnight Blue - #191970
+Navy Blue - #000080
+Neon Blue - #1F51FF
+Non-Photo Blue - #A4DDED
+Pale Blue - #AFEEEE
+Pastel Blue - #AEC6CF
+Powder Blue - #B0E0E6
+Robin's Egg Blue - #00CCCC
+Royal Blue - #4169E1
+Sapphire - #0F52BA
+Slate Blue - #6A5ACD
+Steel Blue - #4682B4
+Teal - #008080
+Tiffany Blue - #0ABAB5
+Turquoise - #40E0D0
+Yale Blue - #0F4D92
+Zaffre - #0014A8
+Blue Bell - #A2A2D0
+Blue Gray - #6699CC
+Blue Lagoon - #ACE5EE
+Blue Sapphire - #126180
+Capri - #00BFFF
+Celestial Blue - #4997D0
+Columbia Blue - #C4D8E2
+Dark Cornflower Blue - #26428B
+Dark Cyan - #008B8B
+Dark Slate Blue - #483D8B
+Dark Turquoise - #00CED1
+Deep Cerulean - #007BA7
+Denim Blue - #1560BD
+Duke Blue - #00009C
+Electric Indigo - #6F00FF
+French Blue - #0072BB
+Green-Blue - #1164B4
+Ice Blue - #99FFFF
+Indigo Dye - #091F92
+Light Cyan - #E0FFFF
+Light Steel Blue - #B0C4DE
+Maya Blue - #73C2FB
+Medium Turquoise - #48D1CC
+Neon Cyan - #00FFE0
+Ocean Blue - #4F42B5
+Pacific Blue - #1CA9C9
+Peacock Blue - #004B49
+Periwinkle - #CCCCFF
+Picton Blue - #45B1E8
+Prussian Blue - #003153
+Robin Egg Blue - #00CCCC
+Sapphire Blue - #0F52BA
+Sky Blue - #87CEEB
+Space Cadet - #1D2951
+Steel Teal - #5F8A8B
+Turquoise Blue - #00FFEF
+Ultra Blue - #4166F5
+United Nations Blue - #5B92E5
+Vivid Sky Blue - #00CCFF
+Zircon Blue - #57FEFF
+Air Force Blue - #5D8AA8
+Blue Yonder - #5072A7
+Cadet - #536872
+Caribbean Blue - #00CC99
+Celadon Blue - #007BA7
+Cobalt - #0047AB
+Denim Dark Blue - #2243B6
+Iceberg - #71A6D2
+Medium Persian Blue - #0067A5
+Neon Blue - #1B03A3
+Russian Blue - #4D6CFA
+Blue Yonder - #506D98
+Bright Navy Blue - #1974D2
+Cool Blue - #4983C6
+Dark Electric Blue - #536878
+Freedom Blue - #1C39BB
+Maximum Blue - #47ABCC
+Blue Lagoon - #4CB7A5
+Ocean Blue - #0077BE
+Twilight Blue - #0A1172
+Lapis Lazuli - #26619C
+Cerulean Blue - #2A52BE

@@ -1,0 +1,100 @@
+Amber - #FFBF00
+Apricot - #FBCEB1
+Atomic Tangerine - #FF9966
+Banana Mania - #FAE7B5
+Bittersweet - #FE6F5E
+Burnt Orange - #CC5500
+Carrot Orange - #ED9121
+Chrome Orange - #FF6E4A
+Coral - #FF7F50
+Coral Reef - #FD7C6E
+Dark Orange - #FF8C00
+Deep Carrot Orange - #E9692C
+Desert Sand - #EDC9AF
+Electric Orange - #FF9933
+Fall Leaf Brown - #C97924
+Flame - #E25822
+Flamingo - #FC8EAC
+Flush Orange - #FF6F59
+Ginger - #B06500
+Gold - #FFD700
+Goldenrod - #DAA520
+Harvest Gold - #DA9100
+Jaffa Orange - #EF863F
+Light Salmon - #FFA07A
+Macaroni and Cheese - #FFBD88
+Mango Tango - #FF8243
+Marigold - #EAA221
+Melon - #FDBCB4
+Neon Carrot - #FFA343
+Orange - #FFA500
+Orange Peel - #FF9F00
+Orange-Yellow - #F8D568
+Papaya Whip - #FFEFD5
+Peach - #FFE5B4
+Peach-Orange - #FFCC99
+Peach Puff - #FFDAB9
+Peru - #CD853F
+Pumpkin - #FF7518
+Red-Orange - #FF5349
+Salmon - #FA8072
+Sandy Brown - #F4A460
+School Bus Yellow - #FFD800
+Selective Yellow - #FFBA00
+Sunset Orange - #FD5E53
+Tangerine - #F28500
+Tangerine Yellow - #FFCC00
+Tiger Orange - #FD6A02
+Tomato - #FF6347
+Tuscan Red - #7C4848
+Yellow-Orange - #FFAE42
+Burnt Sienna - #E97451
+Cadmium Orange - #ED872D
+Copper - #B87333
+Desert Orange - #E2725B
+Fiery Rose - #FF5470
+Flame Pea - #DA5B38
+Fuzzy Wuzzy Brown - #CC6666
+Light Coral - #F08080
+Light Orange - #FFB347
+Light Salmon Pink - #FF9999
+Mandarin - #F37A48
+Mango - #FFC324
+Mexican Orange - #E76B2C
+Neon Orange - #FF6700
+Orange Roughy - #C45719
+Papaya Orange - #F0914D
+Peach Orange - #FFCC99
+Persimmon - #EC5800
+Pumpkin Orange - #FF7518
+Red Salsa - #FD3A4A
+Ruddy Orange - #FF6700
+Rust - #B7410E
+Salmon Pink - #FF91A4
+Sandy Orange - #F4A460
+Sunset - #FAD6A5
+Sweet Pumpkin - #FF6F61
+Tangelo - #F94D00
+Tawny - #CD5700
+Tiger Lily - #E67A00
+Tumbleweed - #DEAA88
+Tuscan Sun - #FAD6A5
+Wild Watermelon - #FC6C85
+Wine - #722F37
+Yellowish Orange - #FFAE42
+Zinnwaldite - #2C1608
+Persimmon Orange - #EC5800
+Pumpkin Spice - #D2691E
+Burnt Copper - #CC6600
+Sunburst Orange - #FF7034
+Tangerine Dream - #FF8243
+Coral Orange - #FF7F50
+Copper Rust - #B86B4B
+Deep Saffron - #FF9933
+Sunray - #E3AB57
+Atomic Orange - #FF9966
+Bronze Orange - #CD7F32
+Melon Orange - #FDBCB4
+Pumpkin Yellow - #FFB347
+Sunset Gold - #FAD6A5
+Terracotta - #E2725B

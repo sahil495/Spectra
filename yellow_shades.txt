@@ -1,0 +1,100 @@
+Light Yellow - #FFFFE0
+Lemon Yellow - #FFF44F
+Canary Yellow - #FFEF00
+Sunflower Yellow - #FFC512
+Mellow Yellow - #F8DE7E
+Daffodil Yellow - #FFFF31
+Banana Yellow - #FFE135
+Butter Yellow - #FFF1B5
+Flax Yellow - #EEDC82
+Corn Yellow - #FBEC5D
+Bright Yellow - #FFEA00
+Amber Yellow - #FFBF00
+Goldenrod - #DAA520
+Mustard Yellow - #FFDB58
+Saffron - #F4C430
+Harvest Gold - #E6BE8A
+Honey Yellow - #FFC30B
+Marigold - #EAA221
+Citron Yellow - #9FA91F
+Sunshine Yellow - #FFF700
+Tuscan Yellow - #FAD6A5
+Navajo White - #FFDEAD
+Royal Yellow - #FADA5E
+Pale Yellow - #FFFF99
+Ivory Yellow - #FFFFF0
+Buff Yellow - #F0DC82
+Laser Lemon - #FFFF66
+Mimosa Yellow - #FFEB00
+Bumblebee Yellow - #FFD300
+Kournikova Yellow - #FFE772
+Blonde Yellow - #FAF0BE
+Honeydew Yellow - #F0FFF0
+Golden Yellow - #FFAA1D
+Dandelion Yellow - #FED85D
+Light Goldenrod - #EEDD82
+Jasmine Yellow - #F8DE7E
+Papaya Whip - #FFEFD5
+Lemon Chiffon - #FFFACD
+Flavescent Yellow - #F7E98E
+Medium Yellow - #FFEB3B
+Orange Yellow - #F5B041
+Royal Gold - #FFD700
+Caramel Yellow - #FFDDA0
+Yellow Orange - #FFAE42
+Beeswax Yellow - #FFF1B5
+Flaxen Yellow - #EEDC82
+Tuscan Sun - #FAD6A5
+Banana Mania - #FAE7B5
+Sunray Yellow - #E3AB57
+Nugget Yellow - #D4AF37
+Golden Bell - #FBB917
+Naples Yellow - #FADA5E
+Golden Fizz - #FFD700
+Sunglow Yellow - #FFCC33
+Honey Glow - #FFC30B
+Champagne Yellow - #F7E7CE
+Cream - #FFFDD0
+Light Butter - #FFF8DC
+Pale Gold - #E6BE8A
+Sunshine - #FFF700
+Yellow Cake - #F3E5AB
+Sand Yellow - #F4A460
+Marzipan - #F8DE7E
+Bright Sun - #FFFA3B
+Ochre Yellow - #CC7722
+Sunbeam Yellow - #FFCC33
+Buttercup Yellow - #FCE205
+Sunshine Gold - #FFDF00
+Dijon Mustard - #C49102
+Golden Poppy - #FCC200
+Flax - #EEDC82
+Cornflower Yellow - #FFF380
+Yellow Rose - #FFF700
+Cheese Yellow - #FFCA2C
+Sandy Yellow - #F4A460
+Lemon Curry - #CCA01D
+Maize Yellow - #FBEC5D
+Mimosa - #FFEB00
+Bright Marigold - #FFC30B
+Jonquil Yellow - #F4CA16
+Pale Canary - #FFFF99
+Buff - #F0DC82
+Flaxen - #EEDC82
+Khaki Yellow - #C3B091
+Sunset Yellow - #FAD6A5
+Sunglow - #FFCC33
+Butter - #FFF1B5
+Lemonade - #F6EABE
+Mango Yellow - #FFC324
+Goldfinch Yellow - #FFDF00
+Bright Gold - #FFD700
+Corn - #FBEC5D
+Yellow Gold - #FFD700
+Cream Yellow - #FFFDD0
+Pastel Yellow - #FFFF99
+Lemon Ice - #F6FF00
+Warm Yellow - #FFC30B
+Bright Lemon - #FFF700
+Golden Light - #FFDB58
+Light Honey - #FFE135
