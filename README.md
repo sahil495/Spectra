@@ -24,13 +24,11 @@
 - **Ctrl + S Keyboard Shortcut**: Pressing **Ctrl+S** instantly opens the configuration dialog box to change layout, color groups, or animation preferences.
 - Optimized animation rendering for **seamless performance**, even with large color palettes.
 
----
 
 ## Final Product: Spectra
 
 Spectra offers a visually immersive experience for exploring curated color palettes. Ideal for professionals working in design, development, branding, or art.
 
----
 
 ## Key Features
 
